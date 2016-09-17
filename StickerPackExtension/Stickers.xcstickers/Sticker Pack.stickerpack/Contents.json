@@ -1,4 +1,33 @@
 {
+  "stickers" : [
+    {
+      "filename" : "Icon-76@3x.sticker"
+    },
+    {
+      "filename" : "Icon-76@3x副本 2.sticker"
+    },
+    {
+      "filename" : "Icon-76@3x副本 3.sticker"
+    },
+    {
+      "filename" : "Icon-76@3x副本 4.sticker"
+    },
+    {
+      "filename" : "Icon-76@3x副本 5.sticker"
+    },
+    {
+      "filename" : "Icon-76@3x副本 6.sticker"
+    },
+    {
+      "filename" : "Icon-76@3x副本 7.sticker"
+    },
+    {
+      "filename" : "Icon-76@3x副本 8.sticker"
+    },
+    {
+      "filename" : "Icon-76@3x副本.sticker"
+    }
+  ],
   "info" : {
     "version" : 1,
     "author" : "xcode"
